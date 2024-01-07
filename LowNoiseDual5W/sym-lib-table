@@ -1,3 +1,4 @@
 (sym_lib_table
+  (version 7)
   (lib (name "LowNoiseDual5W")(type "KiCad")(uri "${KIPRJMOD}/libraries/LowNoiseDual5W.kicad_sym")(options "")(descr ""))
 )
